@@ -1,4 +1,4 @@
-require "emigrate/version"
+require 'emigrate/version'
 
 module Emigrate
   # Your code goes here...
