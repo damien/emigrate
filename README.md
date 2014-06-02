@@ -1,12 +1,12 @@
 # Emigrate
 
+Emigrate is a framework for mapping arbitrary data structures from one format
+to another.
+
 ### Development Status
 [![Build Status](https://travis-ci.org/damien/emigrate.svg?branch=develop)](https://travis-ci.org/damien/emigrate)
 [![Code Climate](https://codeclimate.com/github/damien/emigrate.png)](https://codeclimate.com/github/damien/emigrate)
 [![Inline docs](http://inch-pages.github.io/github/elabs/pundit.png)](http://inch-pages.github.io/github/damien/emigrate)
-
-Emigrate is a framework for mapping arbitrary data structures from one format
-to another.
 
 ## Project Goals
 
